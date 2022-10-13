@@ -2,6 +2,7 @@
 
 import sys
 
+
 def tonum(s):
     try:
         ans += int(line)
