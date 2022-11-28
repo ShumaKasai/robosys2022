@@ -22,8 +22,9 @@ $ cd robosys2022
 
 
 このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます.
+
 このソフトウェアパッケージのコードは、許可を得て以下のスライドを参考に、作成したものです.
 
- https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022
+  https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022
 
 © 2022 Shuma Kasai
