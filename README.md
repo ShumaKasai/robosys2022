@@ -14,10 +14,10 @@ $ cd robosys2022
 - Python 3.7～3.10
 
 ## 動作確認済みの環境
-- Ubuntu 22.04.1
+- Ubuntu 22.04.1  
   - Python 3.10.6 
 
-- Ubuntu 20.04.5
+- Ubuntu 20.04.5  
   - Python 3.7～3.10
 
 ## ライセンス
