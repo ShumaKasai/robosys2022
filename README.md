@@ -31,7 +31,7 @@ $ seq 10 | ./plus
 ### multiply
 入力された数字を掛けて出力します
 ```
-$ seq 5 | ./plus
+$ seq 5 | ./multiply
 120
 ```
 
